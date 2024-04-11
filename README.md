@@ -9,7 +9,7 @@ The Random Number Guessing Game challenges players to guess a randomly generated
 ## How to Play
 
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/random-number-guessing-game.git
+git clone https://github.com/rajeshchau/random-word-game-.git
 
 markdown
 Copy code
